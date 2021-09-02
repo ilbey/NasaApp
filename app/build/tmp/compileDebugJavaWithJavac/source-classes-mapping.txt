@@ -1,0 +1,2 @@
+com/example/nasaappproject/BuildConfig.java
+ com.example.nasaappproject.BuildConfig
